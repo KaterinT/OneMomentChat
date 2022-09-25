@@ -88,6 +88,11 @@ form  .name-details .field:last-child{
     cursor:pointer;
 }
 
+.form form .field i .active::before{
+    color:#333;
+    content:"\f070";
+}
+
 .form form .input input {
     height: 40px;
     width: 100%;
