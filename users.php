@@ -9,6 +9,7 @@
     <script src="https://kit.fontawesome.com/457547b5e2.js" crossorigin="anonymous"></script>
 </head>
 <body>
+    <video src="https://assets.contentstack.io/v3/assets/bltb5a8befb95ca5f20/blt947ae73b7ad7fd9a/6331edf9d1176a0e3a5f81be/¡Bienvenidos_al_Paraíso!_Lo_último_en_zapatillas_lo_encuentras_en_el_Sneaker_Corner_de_Falabella_🤩!.mp4" width="640" height="480"></video>
     <div class="wrapper">
         <section class="users">
             <header>
